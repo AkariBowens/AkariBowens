@@ -32,7 +32,9 @@ Here are some ideas to get you started:
 ## 📌 Capstone Project
 
 - **Software Engineering Capstone (2025)**  
-  Designed and developed a full-stack application demonstrating core software engineering principles, including requirements analysis, system design, implementation, and testing. Integrated stakeholder feedback and applied Agile methodologies throughout the project lifecycle.
+  Designed and developed a full-stack application demonstrating core software engineering principles, including requirements analysis, system design, implementation, and testing. Integrated stakeholder feedback and applied Agile methodologies throughout the project lifecycle.  
+
+&nbsp;&nbsp; [Project Wiki](https://github.com/AkariBowens/D424APKLink/wiki/Using-the-application)
 
 ## 📫 Contact
 
